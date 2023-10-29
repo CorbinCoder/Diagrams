@@ -1,15 +1,15 @@
-<mxfile host="app.diagrams.net" modified="2023-10-29T10:16:14.786Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="JDEiOpVc13vo7M5zTXIT" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-29T11:44:39.362Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="5lQ54_VlGmv2rrUU4CiQ" version="22.0.8" type="github">
   <diagram name="Page-1" id="L8mstzmJL-bA9-87ZFgZ">
-    <mxGraphModel dx="1167" dy="629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="808" dy="435" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="IlggWSS1KbTiTnfQzWxn-1" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0.249;entryY=1.064;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="IlggWSS1KbTiTnfQzWxn-2">
+        <mxCell id="IlggWSS1KbTiTnfQzWxn-1" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="IlggWSS1KbTiTnfQzWxn-19">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="120" y="280" as="sourcePoint" />
-            <mxPoint x="278.48" y="246.35999999999996" as="targetPoint" />
+            <mxPoint x="120" y="380" as="sourcePoint" />
+            <mxPoint x="280" y="330" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="290" y="280" />
+              <mxPoint x="200" y="360" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -31,12 +31,12 @@
             <mxPoint x="290" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IlggWSS1KbTiTnfQzWxn-7" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="IlggWSS1KbTiTnfQzWxn-2">
+        <mxCell id="IlggWSS1KbTiTnfQzWxn-7" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="IlggWSS1KbTiTnfQzWxn-19">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="430" y="330" as="sourcePoint" />
-            <mxPoint x="520" y="280" as="targetPoint" />
+            <mxPoint x="360" y="340" as="sourcePoint" />
+            <mxPoint x="520" y="360" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="360" y="280" />
+              <mxPoint x="360" y="380" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -55,10 +55,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="IlggWSS1KbTiTnfQzWxn-15" value="Data packet moves from sender on network" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="120" y="290" width="160" height="30" as="geometry" />
+          <mxGeometry x="120" y="370" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IlggWSS1KbTiTnfQzWxn-16" value="Data packet moves towards receiver on network" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="360" y="290" width="160" height="30" as="geometry" />
+          <mxGeometry x="360" y="370" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IlggWSS1KbTiTnfQzWxn-17" value="Checks data for addressing information, and transmits to next address." style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#000000;align=left;fontSize=11;spacingLeft=4;spacingTop=-3;whiteSpace=wrap;strokeColor=#666666;mainText=" vertex="1" parent="1">
           <mxGeometry x="440" y="110" width="170" height="60" as="geometry" />
@@ -67,6 +67,21 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="410" y="230" as="sourcePoint" />
             <mxPoint x="449" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IlggWSS1KbTiTnfQzWxn-19" value="PHYSICAL" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#ffe6cc;sketch=1;strokeColor=#d79b00;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="240" y="280" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IlggWSS1KbTiTnfQzWxn-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="279.17" y="280" as="sourcePoint" />
+            <mxPoint x="279.17" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IlggWSS1KbTiTnfQzWxn-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="359.17" y="240" as="sourcePoint" />
+            <mxPoint x="359.17" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
