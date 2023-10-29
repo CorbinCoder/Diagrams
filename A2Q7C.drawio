@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-29T10:01:25.873Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="Mvo2h_ENsgC7VeafHDEO" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-29T11:44:43.297Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="4LfrSPD4vPwJNRu2jacD" version="22.0.8" type="github">
   <diagram name="Page-1" id="Fre9W52nTvGRokObqQ8m">
-    <mxGraphModel dx="363" dy="560" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -49,17 +49,17 @@
         <mxCell id="kQBGNlBiAI49q5CXOrbh-11" value="ACK" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#ffe6cc;sketch=1;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="280" y="380" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="kQBGNlBiAI49q5CXOrbh-15" value="&lt;div style=&quot;font-size: 11px;&quot;&gt;Includes:&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;white-space: pre; font-size: 11px;&quot;&gt;&#x9;&lt;/span&gt;- Port numbers for &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;source and destination.&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;- Starting synchronization &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;number.&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;/div&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=11;spacingLeft=4;spacingTop=-3;whiteSpace=wrap;strokeColor=#666666;mainText=" parent="1" vertex="1">
-          <mxGeometry x="480" y="100" width="160" height="70" as="geometry" />
+        <mxCell id="kQBGNlBiAI49q5CXOrbh-15" value="&lt;div style=&quot;font-size: 11px;&quot;&gt;Includes:&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;- Port numbers for source and destination.&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;- Starting synchronization number.&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;/div&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#000000;align=left;fontSize=11;spacingLeft=4;spacingTop=-3;whiteSpace=wrap;strokeColor=#000000;mainText=" parent="1" vertex="1">
+          <mxGeometry x="480" y="110" width="130" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="kQBGNlBiAI49q5CXOrbh-16" value="&lt;div style=&quot;font-size: 11px;&quot;&gt;Includes:&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;- Acknowledgement.&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;- First ACK in sequence.&lt;br&gt;&lt;/div&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=11;spacingLeft=4;spacingTop=-3;whiteSpace=wrap;strokeColor=#666666;mainText=" parent="1" vertex="1">
-          <mxGeometry x="480" y="230" width="160" height="60" as="geometry" />
+        <mxCell id="kQBGNlBiAI49q5CXOrbh-16" value="&lt;div style=&quot;font-size: 11px;&quot;&gt;Includes:&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;- Acknowledgement.&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;- First ACK in sequence.&lt;br&gt;&lt;/div&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#000000;align=left;fontSize=11;spacingLeft=4;spacingTop=-3;whiteSpace=wrap;strokeColor=#000000;mainText=" parent="1" vertex="1">
+          <mxGeometry x="480" y="240" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kQBGNlBiAI49q5CXOrbh-17" value="&lt;div style=&quot;font-size: 11px;&quot;&gt;Includes:&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;white-space: pre; font-size: 11px;&quot;&gt;&#x9;&lt;/span&gt;- Acknowledgement &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;response.&lt;br&gt;&lt;/div&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=11;spacingLeft=4;spacingTop=-3;whiteSpace=wrap;strokeColor=#666666;mainText=" parent="1" vertex="1">
-          <mxGeometry x="480" y="350" width="160" height="60" as="geometry" />
+        <mxCell id="kQBGNlBiAI49q5CXOrbh-17" value="&lt;div style=&quot;font-size: 11px;&quot;&gt;Includes:&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;- Acknowledgement response.&lt;br&gt;&lt;/div&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#000000;align=left;fontSize=11;spacingLeft=4;spacingTop=-3;whiteSpace=wrap;strokeColor=default;mainText=" parent="1" vertex="1">
+          <mxGeometry x="480" y="350" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kQBGNlBiAI49q5CXOrbh-18" value="Connection established." style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=11;spacingLeft=4;spacingTop=-3;whiteSpace=wrap;strokeColor=#666666;mainText=" parent="1" vertex="1">
-          <mxGeometry x="480" y="430" width="190" height="20" as="geometry" />
+        <mxCell id="kQBGNlBiAI49q5CXOrbh-18" value="&lt;div align=&quot;center&quot;&gt;Connection established.&lt;/div&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#000000;align=left;fontSize=11;spacingLeft=4;spacingTop=-3;whiteSpace=wrap;strokeColor=#000000;mainText=" parent="1" vertex="1">
+          <mxGeometry x="480" y="430" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="kQBGNlBiAI49q5CXOrbh-19" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=-0.003;entryY=0.499;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="kQBGNlBiAI49q5CXOrbh-18" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -73,7 +73,7 @@
             <mxPoint x="489" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kQBGNlBiAI49q5CXOrbh-21" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0;entryY=0.667;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="kQBGNlBiAI49q5CXOrbh-10" target="kQBGNlBiAI49q5CXOrbh-16" edge="1">
+        <mxCell id="kQBGNlBiAI49q5CXOrbh-21" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.025;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="kQBGNlBiAI49q5CXOrbh-10" target="kQBGNlBiAI49q5CXOrbh-16" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="460" y="460" as="sourcePoint" />
             <mxPoint x="499" y="460" as="targetPoint" />
