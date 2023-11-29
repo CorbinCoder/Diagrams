@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-29T01:27:14.147Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="C6TCckFApyWSXI3_UiL-" version="22.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-29T12:00:09.602Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="-iUmOr5JEVPAJGOmITLX" version="22.1.4" type="github">
   <diagram name="Page-1" id="RRn9F1oZF0uEus9G1tCk">
     <mxGraphModel dx="600" dy="323" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -116,24 +116,24 @@
           <mxGeometry x="490" y="165" width="60" height="29" as="geometry" />
         </mxCell>
         <mxCell id="3cw5SHySIFfxZkZwU8mN-34" value="Data is shown moving in one direction, from Alice to Bob, but all VoIP connections are full-duplex so data may be sent in both directions at all times." style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;sketch=1;fontSize=7;" vertex="1" parent="1">
-          <mxGeometry x="420" y="50" width="100" height="100" as="geometry" />
+          <mxGeometry x="420" y="51" width="110" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="3cw5SHySIFfxZkZwU8mN-35" value="&lt;div&gt;Physical Connection:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Wired Connection:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Sound:&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;sketch=1;fontSize=7;align=left;" vertex="1" parent="1">
-          <mxGeometry x="520" y="50" width="100" height="100" as="geometry" />
+        <mxCell id="3cw5SHySIFfxZkZwU8mN-35" value="&lt;div&gt;&amp;nbsp;Physical Connection:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;Wireless Connection:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;Soundwave:&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;sketch=1;fontSize=7;align=left;" vertex="1" parent="1">
+          <mxGeometry x="530" y="51" width="90" height="100" as="geometry" />
         </mxCell>
         <mxCell id="3cw5SHySIFfxZkZwU8mN-36" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="537.5" y="80.99999999999999" as="sourcePoint" />
-            <mxPoint x="602.5" y="80.99999999999999" as="targetPoint" />
+            <mxPoint x="547.5" y="81.99999999999999" as="sourcePoint" />
+            <mxPoint x="612.5" y="81.99999999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3cw5SHySIFfxZkZwU8mN-38" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.wifi;pointerEvents=1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="555" y="121" width="30" height="21" as="geometry" />
+          <mxGeometry x="580" y="122" width="20" height="21" as="geometry" />
         </mxCell>
         <mxCell id="3cw5SHySIFfxZkZwU8mN-39" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;dashPattern=8 8;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="537.5" y="111.14999999999999" as="sourcePoint" />
-            <mxPoint x="602.5" y="111.14999999999999" as="targetPoint" />
+            <mxPoint x="547.5" y="112.14999999999999" as="sourcePoint" />
+            <mxPoint x="612.5" y="112.14999999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
